@@ -1,4 +1,3 @@
-
 # 🩺 Medical Chatbot Project
 
 This is an end-to-end **Medical Chatbot** powered by **RAG (Retrieval-Augmented Generation)**, **FAISS** for vector similarity search, and the **DeepSeek R1 Distill LLaMA 70B** model via **Ollama**. The UI is built with **Streamlit**.
@@ -22,7 +21,7 @@ This is an end-to-end **Medical Chatbot** powered by **RAG (Retrieval-Augmented 
 
 | Chat Interface                  | Model Pipeline Log             |
 |-------------------------------|-------------------------------|
-| ![Demo UI](images/demo_ui.png) | ![Pipeline Log](images/demo_log.png) |
+| ![Demo UI](images/demo1.png) | ![Pipeline Log](images/demo2.png) |
 
 
 ---
