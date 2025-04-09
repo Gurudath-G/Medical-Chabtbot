@@ -127,9 +127,9 @@ medical-chatbot/
 ├── requirements.txt
 ├── images/
 │   ├── demo1.png        # Screenshot of chatbot UI
-│   └── demo2.png       # Screenshot of backend pipeline/log
+│   └── demo2.png       # Screenshot of chatbot UI
 └── pdfsss/
-│   ├──B5084.pdf           # Helper functions/modules
+│   ├──B5084.pdf           # PDF of content
 ```
 
 ---
