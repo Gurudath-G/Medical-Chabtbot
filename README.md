@@ -19,7 +19,7 @@ This is an end-to-end **Medical Chatbot** powered by **RAG (Retrieval-Augmented 
 
 ## 📸 Demo
 
-| Chat Interface                  | Model Pipeline Log             |
+| Chat Interface 1                | Model Pipeline Log  2          |
 |-------------------------------|-------------------------------|
 | ![Demo UI](images/demo1.png) | ![Pipeline Log](images/demo2.png) |
 
